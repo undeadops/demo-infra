@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: spidey
-        image: undeadops/webby:master-f619e5d
+        image: undeadops/webby:master-856200d
         ports:
         - containerPort: 5000
